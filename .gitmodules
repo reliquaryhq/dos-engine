@@ -1,0 +1,3 @@
+[submodule "src/vendor/dosbox"]
+	path = src/vendor/dosbox
+	url = https://github.com/reliquaryhq/dosbox.git
